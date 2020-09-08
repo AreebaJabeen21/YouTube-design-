@@ -1,0 +1,35 @@
+body{
+	background-color: #F0F0F0;
+}
+
+.nav-item a:hover{
+border-bottom: 1px solid #38A1F3;
+}
+.rounded-circle{
+	width: 150px;
+	height: 150px;
+	object-fit: cover;
+	margin-top: 10rem;
+	z-index: 999;
+}
+
+
+.side-card-text{
+	display: inline;
+}
+.profile-img{
+	width: 100px;
+	height: 100px;
+	object-fit: cover;
+	border-radius: 50%;
+	margin-top: -5rem;
+	margin-left: 15px;
+	z-index: 999;
+}
+
+.side-profile-img{
+		width: 60px;
+	height: 60px;
+	object-fit: cover;
+	border-radius: 50%;
+		
